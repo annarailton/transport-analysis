@@ -1,0 +1,42 @@
+"Oxford usual residents - household and communal establishment populations by ward, 2001-2011",,,,,,,,,,
+Extract prepared by,"Mark Fransham, Oxford City Council",,,,,,,,,
+Contact details,mfransham@oxford.gov.uk / 01865 252797,,,,,,,,,
+Date prepared,5/7/13,,,,,,,,,
+Source,"Table KS01, 2001 Census, Office for National Statistics",,,,,,,,,
+,"Table KS101EW, 2011 Census, Office for National Statistics",,,,,,,,,
+Date of source data,Census day 2001 (29/04/2001) and 2011 (27/03/2011),,,,,,,,,
+Geographic coverage,Oxford local authority district,,,,,,,,,
+Population coverage,All usual residents,,,,,,,,,
+Downloaded from ,http://www.ons.gov.uk/census,,,,,,,,,
+Notes,"This shows the population by ward, broken down into household and communal establishment populations.",,,,,,,,,
+,In the Census every usual resident is counted as living in either a household or a communal establishment.,,,,,,,,,
+,A household is defined as one person living alone or a group of people (not necessarily related) living together and sharing cooking faciliti]es and a living area.,,,,,,,,,
+,A communal establishment means managed residential accommodation.  In Oxford most communal establishment residents are students living in university colleges or halls of residence.,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,2001 Census,,,2011 Census,,,Change 2001-2011,,,
+Ward name,"Household population, 2001","Communal establishment population, 2001",,"Household population, 2011","Communal establishment population, 2011",,Household population change (count),Communal establishment population change (count),Household population change (percentage),Communal establishment population change (percentage)
+Barton and Sandhills,5833,48,,7151,51,,1318,3,10%,0%
+Blackbird Leys,5759,44,,6031,46,,272,2,2%,0%
+Carfax,1847,2726,,2125,4236,,278,1510,2%,32%
+Churchill,5395,680,,6161,1142,,766,462,6%,10%
+Cowley,5460,0,,6482,80,,1022,80,8%,2%
+Cowley Marsh,4637,249,,6678,299,,2041,50,16%,1%
+Headington,5324,295,,5646,118,,322,-177,2%,-4%
+Headington Hill and Northway,4095,792,,4724,1500,,629,708,5%,15%
+Hinksey Park,5565,255,,5912,32,,347,-223,3%,-5%
+Holywell,556,3757,,354,5071,,-202,1314,-2%,28%
+Iffley Fields,5083,132,,5649,64,,566,-68,4%,-1%
+Jericho and Osney,5553,317,,6150,670,,597,353,5%,8%
+Littlemore,5579,74,,6278,163,,699,89,5%,2%
+Lye Valley,5965,192,,7094,278,,1129,86,9%,2%
+Marston,6078,36,,6222,37,,144,1,1%,0%
+North,3857,1610,,3886,1923,,29,313,0%,7%
+Northfield Brook,6330,63,,6936,55,,606,-8,5%,-0%
+Quarry and Risinghurst,5959,19,,6287,21,,328,2,3%,0%
+Rose Hill and Iffley,5966,59,,6470,30,,504,-29,4%,-1%
+St Clement's,5477,254,,5681,271,,204,17,2%,0%
+St Margaret's,3582,1023,,4266,1231,,684,208,5%,4%
+St Mary's,4536,504,,4915,415,,379,-89,3%,-2%
+Summertown,6192,849,,6296,913,,104,64,1%,1%
+Wolvercote,5623,19,,5847,19,,224,0,2%,0%
